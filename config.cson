@@ -1,0 +1,43 @@
+"*":
+  "exception-reporting":
+    userId: "eb20cecd-2ac5-778b-6b7e-c507b0948dcc"
+  welcome:
+    showOnStartup: false
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "preview-plus"
+      "coffeescript-preview"
+      "Atom-Syntax-highlighting-for-Sass"
+      "Atom-Syntax-highlighting-for-Sass"
+      "sassbeautify"
+      "source-preview-jade"
+      "vim-mode"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    preferredLineLength: 1500
+    showIndentGuide: true
+    fontSize: 13
+  linter:
+    showErrorPanel: false
+  minimap: {}
+  "remote-sync": {}
+  "remote-edit": {}
+  "preview-plus":
+    htmlp: true
+    livePreview: true
+  "one-dark-ui":
+    layoutMode: "Compact"
+  "project-manager":
+    closeCurrent: true
+  emmet: {}
+  "atom-beautify": {}
+  "git-log": {}
+".jade.source":
+  editor:
+    preferredLineLength: 1500
+".pyjade.source":
+  editor:
+    preferredLineLength: 1500

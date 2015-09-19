@@ -1,0 +1,35 @@
+"glab-stockcode":
+  title: "glab-stockcode"
+  paths: [
+    "/Users/komacchi/glab-stockcode"
+  ]
+"pfr-manage":
+  title: "pfr-manage"
+  paths: [
+    "/Users/komacchi/dev-markup/pfr-manage"
+  ]
+"dev-markup/dev-stockcode":
+  title: "dev-stockcode"
+  paths: [
+    "/Users/komacchi/dev-markup/dev-stockcode"
+  ]
+rest_edit:
+  title: "rest_edit"
+  paths: [
+    "/Users/komacchi/dev-markup/rest_edit"
+  ]
+gon:
+  title: "gon"
+  paths: [
+    "/Users/komacchi/dev-markup/gon"
+  ]
+"dev-tems":
+  title: "dev-tems"
+  paths: [
+    "/Users/komacchi/dev-tems"
+  ]
+"dev-stockcode":
+  title: "dev-stockcode"
+  paths: [
+    "/Users/komacchi/dev-stockcode"
+  ]
